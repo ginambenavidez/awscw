@@ -18,9 +18,9 @@ tags:
 # Villa Paz
 The most famous of the American hospitals, Villa Paz was a former royal residence and became a popular retreat for American soldiers. 
 
-## Heading
+## American Hospital No. 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
+.[^1]
 
 [^1]: 'This is the footnote text. But I _really want_ italics.
 

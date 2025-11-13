@@ -9,7 +9,7 @@ date: 2025-10-11
 # About This Project
 A summary of this project.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
+This is a dissertation project.[^1]
 
 [^1]: 'This is the footnote text. But I _really want_ italics.
 
