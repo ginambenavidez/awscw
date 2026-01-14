@@ -3,13 +3,13 @@ title: El Escorial
 author: Gina Benavidez
 layout: base
 date: 2025-07-21
-thumbnail: images/el-romeral-schoolhouse.jpg
-summary: There was an English hospital in the village of El Escorial, located down the hill from the Royal Monastery7. 
-header-image: images/el-romeral-schoolhouse.jpg
+thumbnail: images/el-escorial-hospital-site.jpeg
+summary: There was an English hospital in the village of El Escorial, located down the hill from the Royal Monastery. 
+header-image: images/el-escorial-hospital-site.jpeg
 header-title:
 header-position: 0px
 toc-section: piano
-geo: [40.58923957465139, -4.136326735582068]
+geo: [40.58923, -4.136326]
 placename: El Escorial
 tags:
     - tag
@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 class="left" 
 width="48%" 
 caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" 
-image-path="images/el-romeral-schoolhouse.jpg" 
+image-path="images/el-escorial-hospital-site.jpeg" 
 %}
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
